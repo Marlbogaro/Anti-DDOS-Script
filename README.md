@@ -49,7 +49,7 @@ ping domain.com
 	
 Step #1 Download Simple-Anti-DDOS to your system.
 	
-	wget https://github.com/LasVegasCoder/Anti-DDOS-Script/blob/master/advanced-anti-ddos.sh
+	wget https://github.com/Marlbogaro/Anti-DDOS-Script/blob/master/advanced-anti-ddos.sh
 	
 Step #2 Make it executable
 	chmod +x advanced-anti-ddos.sh
@@ -69,7 +69,7 @@ Step #3 Run it.
 	
 Step #1 Download Prince Guard Script to your system.
 	
-	wget https://github.com/LasVegasCoder/Anti-DDOS-Script/blob/master/prince-server-guard.ipt
+	wget https://github.com/Marlbogaro/Anti-DDOS-Script/blob/master/prince-server-guard.ipt
 	
 Step #2 Make it executable
 	chmod +x prince-server-guard.ipt
@@ -110,7 +110,7 @@ ShowIT display data in ASCII as it moves accross your network.
 	
 	Step #1 Download Prince Guard Script to your system.
 		
-	wget hhttps://raw.githubusercontent.com/LasVegasCoder/Anti-DDOS-Script/master/showit
+	wget hhttps://raw.githubusercontent.com/Marlbogaro/Anti-DDOS-Script/master/showit
 	
 	Step #2 Make it executable
 		chmod +x showit
